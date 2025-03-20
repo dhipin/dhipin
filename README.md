@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://github.com/dhipin">@dhipin</a>, CTO of Lascade LLC, part-time CEO of Appfide Private Limited, Former Senior iOS Developer with 11+ years of experience in Swift, SwiftUI, Nodejs, Flutter, Wordpress, AWS, NGINX
+- 👋 Hi, I’m <a href="https://github.com/dhipin">@dhipin</a>, Funder & CEO of Appfide Private Limited, Ex-CTO of Lascade LLC, Former Senior iOS Developer with 11+ years of experience in Swift, SwiftUI, Nodejs, Flutter, Wordpress, AWS, NGINX
 - 👀 I’m interested in coding, new programming languages and exploring the tech world
 - 📫 You can reach me at <a href="mailto:dhipin@dhipin">dhipin@dhip.in</a>
 
